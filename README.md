@@ -1,2 +1,3 @@
-# python_scripts
+# Scripts de Python
 
+### Scripts de Administración de equipos Windows y ejercicios básicos
