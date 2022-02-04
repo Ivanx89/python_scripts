@@ -4,5 +4,5 @@ Scripts de administración, creación de usuarios, grupos, copias de seguridad e
 # Ejercicios:
 Ejercicios aleatorios de matemáticas,  condiciones simples, letras etc.
 
-# CSV:
+# csv:
 Ficheros .csv que se usan por algunos scripts
