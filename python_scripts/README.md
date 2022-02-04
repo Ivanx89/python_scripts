@@ -1,5 +1,5 @@
 # Admin: 
- Python scripts about windows configuration, users, groups, backups...
+Scripts de administración, creación de usuarios, grupos, copias de seguridad etc.
  
-# Excercises:
-Random Python excercises 
+# Ejercicios:
+Ejercicios aleatorios de matemáticas,  condiciones simples, letras etc.
