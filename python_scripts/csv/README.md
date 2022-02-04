@@ -1,1 +1,1 @@
-This files are used for some scripts
+This files are used by some scripts
