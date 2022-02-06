@@ -1,3 +1,4 @@
+#Realizar división de dos números con control de errores.
 
 x = float(input("Escriba un número: "))
 

@@ -1,3 +1,5 @@
+#Realizar copia de seguridad quitando el atributo "A" en Windows
+
 import os
 import zipfile
 from zipfile import ZipFile

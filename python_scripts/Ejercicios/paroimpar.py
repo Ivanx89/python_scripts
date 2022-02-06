@@ -1,3 +1,4 @@
+#Saber si un número es par o impar.
 
 alpha = input("Introduzca un número: ")
 

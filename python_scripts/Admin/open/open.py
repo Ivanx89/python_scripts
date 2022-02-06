@@ -1,3 +1,5 @@
+#Abrir un fichero y escribir las lineas en otro.
+
 g = open("prova2.txt", 'w')
 try:
     f = open("prova1.txt", 'r')

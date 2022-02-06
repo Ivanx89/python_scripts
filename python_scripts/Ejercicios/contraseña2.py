@@ -1,4 +1,4 @@
-
+#Verificación de contraseña en bucle.
 pwd  = "contraseña"
 
 

@@ -1,3 +1,5 @@
+#Escribir en un csv datos de otro csv cuya primera columna empiece por VC y tenga algún dato nulo
+
 import csv
 from sqlite3 import enable_shared_cache
 

@@ -1,3 +1,5 @@
+#Saber las veces que hay una vocal en una palabra.
+
 palabra = input("Introduce una palabra: ")
 vocales = ['a', 'e', 'i', 'o', 'u']
 for i in vocales: 

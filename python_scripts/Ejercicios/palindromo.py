@@ -1,4 +1,4 @@
-
+#Saber si una palabra es un palíndromo (capicua)
 
 palabra = input("Introduce una palabra: ")
 

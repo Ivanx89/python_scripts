@@ -1,4 +1,4 @@
-
+#Mostrar resultado de un .txt del ejercicio tabladen.py
 
 
 n = input("Introduzca un número: ")

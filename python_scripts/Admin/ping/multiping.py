@@ -1,3 +1,5 @@
+#Realizar un ping a la red mencionada.
+
 import os
 import sys
 

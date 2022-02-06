@@ -1,4 +1,4 @@
-
+#Verificación de contraseña
 #Variables
 
 pwd  = "contraseña"

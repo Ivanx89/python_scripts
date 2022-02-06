@@ -1,3 +1,5 @@
+#Insertar frases en un fichero
+
 import sys
 
 with open('prova2.txt', 'w') as f:

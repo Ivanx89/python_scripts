@@ -1,3 +1,5 @@
+#Copiar los archivos como argumento del directorio actual a un directorio que pasa como argumento
+
 import sys
 import os
 import shutil

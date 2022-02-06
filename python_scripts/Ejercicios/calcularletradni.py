@@ -1,4 +1,4 @@
-
+#Calcular la letra del DNI según los números.
 
 dni = int(input("Escriba su dni sin letra: "))
 

@@ -1,3 +1,5 @@
+#Configurar interfaz de red y nombre del equipo.
+
 import os
 
 interface = input("Introduzca el nombre de su interfaz de red: ")

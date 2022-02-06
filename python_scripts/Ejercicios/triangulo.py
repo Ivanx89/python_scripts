@@ -1,3 +1,4 @@
+#Realizar un triangulo según la altura introducida.
 
 altura = int(input("Introduce la altura del triángulo: "))
 

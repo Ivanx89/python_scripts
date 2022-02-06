@@ -1,3 +1,5 @@
+#Calcular número de elefantes que puede sujetar una tela de araña.
+
 try:
     peso = int(input("Introduce el peso máximo de la tela de araña: "))
     nelefantes = list(map(int,input().split()))

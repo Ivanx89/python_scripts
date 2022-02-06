@@ -1,3 +1,5 @@
+#Calcular número de elefantes que puede sujetar una tela de araña.
+
 import sys
 
 try:

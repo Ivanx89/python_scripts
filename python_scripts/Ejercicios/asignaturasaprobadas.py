@@ -1,3 +1,4 @@
+#Mostrar asignaturas suspendidas.
 
 asignaturas = ["Matemáticas", "Física", "Química", "Historia"]
 

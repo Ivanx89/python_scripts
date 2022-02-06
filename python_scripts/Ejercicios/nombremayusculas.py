@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 24 15:32:18 2021
+#Saber longitud de un nombre.
 
-@author: Administrador
-"""
 nombre = input("Escribe tu nombre: ")
 
 print(str.upper(nombre))

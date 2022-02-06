@@ -1,3 +1,5 @@
+#Meter usuarios de un csv a un grupo.
+
 import csv
 import os
 

@@ -1,3 +1,5 @@
+#Mostrar los recursos del equipo.
+
 import psutil
 
 

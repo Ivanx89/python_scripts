@@ -1,4 +1,4 @@
-
+#Leer la línea especificada de un fichero resultante de tabladen.py
 
 
 n = input("Introduzca un número: ")

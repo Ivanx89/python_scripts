@@ -1,3 +1,5 @@
+#Escribir en un csv datos de otro csv cuya primera columna empiece por VC y realice el acumulado del los casos
+
 import csv
 
 try:

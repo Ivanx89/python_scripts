@@ -1,3 +1,4 @@
+#Calcular el Indice de Masa Corporal.
 
 #IMC = peso / altura^2
 

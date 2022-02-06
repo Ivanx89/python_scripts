@@ -1,3 +1,5 @@
+#Realizar copia de seguridad quitando el atributo "A" en Windows para los archivos que pesen >= a el argumento del comando
+
 from datetime import datetime
 import os
 import zipfile

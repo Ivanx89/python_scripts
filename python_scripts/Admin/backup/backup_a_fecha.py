@@ -1,3 +1,5 @@
+#Realizar copia de seguridad quitando el atributo "A" en Windows y que tenga la fecha actual como nombre
+
 from datetime import datetime
 import os
 import zipfile

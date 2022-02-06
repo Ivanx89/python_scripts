@@ -1,4 +1,4 @@
-
+#Escribe un string las veces indicadas.
 
 nombre = input("escribe un nombre: ")
 

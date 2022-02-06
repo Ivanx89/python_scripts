@@ -1,3 +1,4 @@
+#Lotería.
 
 numeros = []
 

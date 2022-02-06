@@ -1,4 +1,4 @@
-
+#Realizar división de dos números.
 
 
 n = int(input("Escribe un número entero: "))

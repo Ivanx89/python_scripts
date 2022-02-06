@@ -1,3 +1,5 @@
+#Sin enunciado
+
 try:
     alto, ancho = list(map(int,input().split()))
     suelo = alto * ancho

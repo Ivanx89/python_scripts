@@ -1,3 +1,5 @@
+#Crear grupos en el DC mencionados en un .csv
+
 import csv
 import os
 

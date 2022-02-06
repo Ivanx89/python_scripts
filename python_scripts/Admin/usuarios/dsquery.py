@@ -1,3 +1,5 @@
+#Mostrar usuarios del sistema Windows. (DC)
+
 import os
 
 usuarios = os.popen("dsquery user").read().split()

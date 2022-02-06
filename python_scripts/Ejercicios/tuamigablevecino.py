@@ -1,3 +1,5 @@
+#Sin enunciado.
+
 try:
     ncasos = int(input("Introduce el número de casos: "))
     if ncasos < 1:

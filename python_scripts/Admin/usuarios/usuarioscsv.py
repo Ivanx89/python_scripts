@@ -1,3 +1,5 @@
+#Crear usuarios en el dominio DC.
+
 import csv
 import os
 
